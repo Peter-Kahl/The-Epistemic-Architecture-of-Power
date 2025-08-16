@@ -4,7 +4,8 @@
 
 ![alt text](https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/blob/main/power_throne.jpg?raw=true)
 
-by Peter Kahl, 10 August 2025
+by Peter Kahl, 10 August 2025\
+v2 Edition 16 August 2025
 
 ---
 
