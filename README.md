@@ -26,12 +26,12 @@ epistemic architecture of power, epistemic clientelism theory, epistemic capture
 
 ### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/master/Kahl_P_The_Epistemic_Architecture_of_Power_10_August_2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/master/Kahl_P_The_Epistemic_Architecture_of_Power_v2_16-AUG-2025.pdf)
 
 ### Cite this work:
 
 ```
-Peter Kahl, The Epistemic Architecture of Power: How Knowledge Control Sustains Authority in Social Structures (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power>
+Peter Kahl, The Epistemic Architecture of Power: How Knowledge Control Sustains Authority in Social Structures (v2 edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power>
 ```
 
 ### Publisher & Licence
