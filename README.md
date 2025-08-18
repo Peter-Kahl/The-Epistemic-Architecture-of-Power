@@ -1,11 +1,13 @@
 # The Epistemic Architecture of Power
 
-#### How Knowledge Control Sustains Authority in Social Structures
+### How Knowledge Control Sustains Authority in Social Structures
 
-![alt text](https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/blob/main/power_throne.jpg?raw=true)
+#### Revealing the hidden rules of power: who controls what we know, and how institutions can be made accountable.
+
+![alt text](https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/blob/main/Epistemic_Architecture_of_Power.jpg?raw=true)
 
 by Peter Kahl, 10 August 2025\
-v2 Edition 16 August 2025
+2nd Edition 16 August 2025
 
 ---
 
@@ -37,7 +39,8 @@ Peter Kahl, The Epistemic Architecture of Power: How Knowledge Control Sustains 
 
 ### Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd on 10 August 2025.
+First published in Great Britain by Lex et Ratio Ltd on 10 August 2025.\
+2nd edition was published by Lex et Ratio Ltd on 16 August 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
