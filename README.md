@@ -2,10 +2,9 @@
 
 ### How Knowledge Control Sustains Authority in Social Structures
 
-#### Revealing the hidden rules of power: who controls what we know, and how institutions can be made accountable.
+#### _Revealing the hidden rules of power: who controls what we know, and how institutions can be made accountable._
 
-by Peter Kahl, 10 August 2025\
-2nd Edition 16 August 2025
+by Peter Kahl, 10 August 2025
 
 DOI: 10.13140/RG.2.2.14628.54402
 
@@ -42,7 +41,7 @@ epistemic architecture of power, epistemic clientelism theory, epistemic capture
 ### Cite this work
 
 ```
-Kahl, P. (2025). The epistemic architecture of power: How knowledge control sustains authority in social structures (v2 ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.14628.54402
+Kahl, P. (2025). The epistemic architecture of power: How knowledge control sustains authority in social structures (2nd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.14628.54402
 ```
 
 ### Publisher & Licence
