@@ -2,15 +2,13 @@
 
 ### How Knowledge Control Sustains Authority in Social Structures
 
-#### _Revealing the hidden rules of power: who controls what we know, and how institutions can be made accountable._
-
 by Peter Kahl, 10 August 2025
 
-DOI: 10.13140/RG.2.2.14628.54402
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.14628.54402-blue.svg)](https://doi.org/10.13140/RG.2.2.14628.54402)
 
 ![alt text](https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/blob/main/Epistemic_Architecture_of_Power.jpg?raw=true)
 
-### Abstract
+## Abstract
 
 In this thesis, I develop _The Epistemic Architecture of Power_, a unified theoretical framework for explaining how authority in political, corporate, and institutional contexts is sustained through control of epistemic agency. Drawing on classical political theory, political epistemology, and my own _Epistemic Clientelism Theory_ (ECT), I examine three primary modalities through which epistemic capture occurs: representation, alliance, and appeasement.
 
@@ -20,35 +18,27 @@ I advance a normative critique of these dynamics, arguing that epistemic agency 
 
 By reframing the politics of authority as the politics of knowing, I demonstrate that epistemic justice is inseparable from political justice, and that democratising epistemic power is essential for legitimate, adaptive, and accountable governance.
 
-### Acknowledgements
+## Working Paper Status
 
-This paper is part of a wider research programme on fiduciary-epistemic governance. Earlier versions of the argument were developed alongside my work on _Epistemic Clientelism Theory: Power Dynamics and the Delegation of Epistemic Agency in Academia_ (2025), and will be integrated into my forthcoming monograph _Beyond Epistemic Clientelism_. I am grateful to colleagues, interlocutors, and readers across philosophy, law, and higher education who have challenged and refined these ideas.
+This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
 
-### Working Paper Status
-
-This is a working paper circulated for discussion and comment. It represents ongoing research and is intended to stimulate debate. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project _Beyond Epistemic Clientelism_.
-
-### Keywords
+## Keywords
 
 epistemic architecture of power, epistemic clientelism theory, epistemic capture, fiduciary-epistemic duties, political epistemology, epistemic justice, representation and power, alliances and power, appeasement and power, delegated interpretation, narrative consolidation, information gatekeeping, epistemic socialisation, epistemic oligarchy, epistemic lock-in, reflexive deference, anticipatory conformity, governance reform, institutional accountability, knowledge governance
 
----
-
-### Download
+## Download
 
 - [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/master/Kahl_P_The_Epistemic_Architecture_of_Power_v2_16-AUG-2025.pdf)
 
-### Cite this work
+## Cite this work
 
-```
-Kahl, P. (2025). The epistemic architecture of power: How knowledge control sustains authority in social structures (2nd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.14628.54402
-```
+Kahl, P. (2025). _The epistemic architecture of power: How knowledge control sustains authority in social structures_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power DOI: https://doi.org/10.13140/rg.2.2.14628.54402
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in Great Britain by Lex et Ratio Ltd on 10 August 2025.\
 2nd edition was published by Lex et Ratio Ltd on 16 August 2025.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
-
-You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
+You may share this work for non-commercial purposes with attribution and without modification.\
+Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
