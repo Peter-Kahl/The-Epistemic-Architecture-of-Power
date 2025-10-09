@@ -2,15 +2,15 @@
 
 ### How Knowledge Control Sustains Authority in Social Structures
 
-by Peter Kahl, 10 August 2025
+by Peter Kahl, 2025-08-10; v2: 2025-08-16
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.14628.54402-blue.svg)](https://doi.org/10.13140/RG.2.2.14628.54402)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.14628.54402-blue.svg)](https://doi.org/10.13140/RG.2.2.14628.54402) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/The-Epistemic-Architecture-of-Power/blob/main/Epistemic_Architecture_of_Power.jpg?raw=true)
 
 ## Abstract
 
-In this thesis, I develop _The Epistemic Architecture of Power_, a unified theoretical framework for explaining how authority in political, corporate, and institutional contexts is sustained through control of epistemic agency. Drawing on classical political theory, political epistemology, and my own _Epistemic Clientelism Theory_ (ECT), I examine three primary modalities through which epistemic capture occurs: representation, alliance, and appeasement.
+In this thesis, I develop _The Epistemic Architecture of Power_, a unified theoretical framework for explaining how authority in political, corporate, and institutional contexts is sustained through control of epistemic agency. Drawing on classical political theory, political epistemology, and my own [_Epistemic Clientelism Theory_](https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory) (ECT), I examine three primary modalities through which epistemic capture occurs: representation, alliance, and appeasement.
 
 I show how representation, typically conceived as a channel of empowerment, can evolve into epistemic oligarchy when representatives monopolise both decision-making and interpretation. I analyse how alliances, while enabling cooperation, risk epistemic lock-in when members suppress dissent to preserve unity. I demonstrate how appeasement, in which less powerful actors pre-emptively adopt dominant interpretive frames, fosters reflexive deference and eliminates internal challenge. Across modalities, I trace four recurring mechanisms — delegated interpretation, narrative consolidation, information gatekeeping, and epistemic socialisation — that systematically narrow interpretive horizons, reduce contestability, and entrench dependency.
 
@@ -36,8 +36,8 @@ Kahl, P. (2025). _The epistemic architecture of power: How knowledge control sus
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd on 10 August 2025.\
-2nd edition was published by Lex et Ratio Ltd on 16 August 2025.
+First published in Great Britain by Lex et Ratio Ltd, 2025-08-10.\
+2nd edition was published by Lex et Ratio Ltd, 2025-08-16.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
