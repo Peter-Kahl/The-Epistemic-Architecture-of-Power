@@ -18,13 +18,13 @@ I advance a normative critique of these dynamics, arguing that epistemic agency 
 
 By reframing the politics of authority as the politics of knowing, I demonstrate that epistemic justice is inseparable from political justice, and that democratising epistemic power is essential for legitimate, adaptive, and accountable governance.
 
-## Working Paper Status
-
-This manuscript is circulated as a working paper in advance of formal submission. Draft chapters are complete and under active revision. Citations have been integrated but remain provisional; feedback is invited on clarity, coverage, and cross-disciplinary relevance.
-
 ## Keywords
 
 epistemic architecture of power, epistemic clientelism theory, epistemic capture, fiduciary-epistemic duties, political epistemology, epistemic justice, representation and power, alliances and power, appeasement and power, delegated interpretation, narrative consolidation, information gatekeeping, epistemic socialisation, epistemic oligarchy, epistemic lock-in, reflexive deference, anticipatory conformity, governance reform, institutional accountability, knowledge governance
+
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ## Download
 
